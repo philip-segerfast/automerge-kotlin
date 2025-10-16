@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automerge-kotlin-repo-shared-jvm">
+    <output-path>$PROJECT_DIR$/repo/shared/build/libs</output-path>
+    <root id="archive" name="automerge-kotlin-repo-shared-jvm.jar">
+      <element id="module-output" name="automerge-kotlin.repo.automerge-kotlin-repo-shared.jvmMain" />
+    </root>
+  </artifact>
+</component>

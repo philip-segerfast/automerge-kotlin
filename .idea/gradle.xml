@@ -4,14 +4,20 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/repo" />
-            <option value="$PROJECT_DIR$/repo/demo" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-core" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo/client" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo/client/demo" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo/server" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo/server/demo" />
+            <option value="$PROJECT_DIR$/automerge-kotlin-repo/shared" />
           </set>
         </option>
       </GradleProjectSettings>

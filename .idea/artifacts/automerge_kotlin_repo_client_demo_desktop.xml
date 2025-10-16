@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automerge-kotlin-repo-client-demo-desktop">
+    <output-path>$PROJECT_DIR$/repo/client/demo/build/libs</output-path>
+    <root id="archive" name="automerge-kotlin-repo-client-demo-desktop.jar">
+      <element id="module-output" name="automerge-kotlin.repo.client.automerge-kotlin-repo-client-demo.desktopMain" />
+    </root>
+  </artifact>
+</component>
